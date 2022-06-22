@@ -1,0 +1,15 @@
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\bin\Debug\net6.0\Odds-or-evens.exe
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\bin\Debug\net6.0\Odds-or-evens.deps.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\bin\Debug\net6.0\Odds-or-evens.runtimeconfig.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\bin\Debug\net6.0\Odds-or-evens.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\bin\Debug\net6.0\Odds-or-evens.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.csproj.AssemblyReference.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.AssemblyInfoInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.AssemblyInfo.cs
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\refint\Odds-or-evens.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\Odds-or-evens.genruntimeconfig.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\odds-evens\Odds-or-evens\obj\Debug\net6.0\ref\Odds-or-evens.dll
